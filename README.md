@@ -7,9 +7,11 @@
 🔹 Advocate for continuous learning and knowledge sharing
 
 💡 Current Focus: Web Developer Full Stack
+
 🌍 Contributor to: [mention popular projects or communities if applicable].
 
 📫 Connect with me: [my LinkedIn : aarab-abderrahmane]
+
 🔗 Portfolio/Website: [...]
 
 🚀 Open to collaboration on exciting projects and contributing to impactful solutions.
