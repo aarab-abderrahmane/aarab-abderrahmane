@@ -3,7 +3,9 @@
 🌟 Software Developer | Open Source Enthusiast
 
 🔹 Specialize in Python, HTML, CSS
+
 🔹 Passionate about creating efficient, scalable code
+
 🔹 Advocate for continuous learning and knowledge sharing
 
 💡 Current Focus: Web Developer Full Stack
