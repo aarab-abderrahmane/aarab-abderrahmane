@@ -1,7 +1,7 @@
 ## Hi there 👋
 🌟 Software Developer | Open Source Enthusiast
 
-🔹`🔹 Specialize in Python, HTML, CSS`<br>
+🔹`Specialize in Python, HTML, CSS`<br>
 
 `🔹 Passionate about creating efficient, scalable code`<br>
 
