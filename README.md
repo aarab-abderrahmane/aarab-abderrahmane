@@ -19,7 +19,7 @@
 🚀 Open to collaboration on exciting projects and contributing to impactful solutions.
 <p style="font-family: cursive;">هذا نص مكتوب بخط Arial</p>
 
-`🌟 Software Developer | Open Source Enthusiast
+<p style="font-family: 'Courier New', Courier, monospace;">🌟 Software Developer | Open Source Enthusiast
 
 🔹 Specialize in Python, HTML, CSS
 
@@ -35,5 +35,4 @@
 
 🔗 Portfolio/Website: [...]
 
-🚀 Open to collaboration on exciting projects and contributing to impactful solutions.`
-
+🚀 Open to collaboration on exciting projects and contributing to impactful solutions.</p>
