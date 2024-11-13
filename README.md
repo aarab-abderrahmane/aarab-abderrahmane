@@ -7,9 +7,9 @@
 
 🔹`Advocate for continuous learning and knowledge sharing`<br>
 
-💡 Current Focus: Web Developer Full Stack
+💡 Current Focus: `Web Developer Full Stack`
 
-🌍 Contributor to: [mention popular projects or communities if applicable].
+🌍 Contributor to: `[mention popular projects or communities if applicable].`
 
 📫 Connect with me: [my LinkedIn : aarab-abderrahmane]
 
