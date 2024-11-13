@@ -17,4 +17,4 @@
 🔗 Portfolio/Website: [...]
 
 🚀 Open to collaboration on exciting projects and contributing to impactful solutions.`
-<p style="font-family: cursisive;">هذا نص مكتوب بخط Arial</p>
+<p style="font-family: cursive;">هذا نص مكتوب بخط Arial</p>
