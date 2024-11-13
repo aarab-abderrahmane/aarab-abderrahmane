@@ -21,5 +21,6 @@
 
 <p style="font-family: 'Courier New', Courier, monospace;">🌟 Software Developer | Open Source Enthusiast
 
-`uright
-dsds`
+`urightdsds`
+`urids`
+
