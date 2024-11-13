@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌟 Software Developer | Open Source Enthusiast
+`🌟 Software Developer | Open Source Enthusiast
 
 🔹 Specialize in Python, HTML, CSS
 
@@ -16,4 +16,4 @@
 
 🔗 Portfolio/Website: [...]
 
-🚀 Open to collaboration on exciting projects and contributing to impactful solutions.
+🚀 Open to collaboration on exciting projects and contributing to impactful solutions.`
