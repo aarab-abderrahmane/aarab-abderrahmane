@@ -3,9 +3,9 @@
 
 🔹`Specialize in Python, HTML, CSS`<br>
 
-`🔹 Passionate about creating efficient, scalable code`<br>
+🔹`Passionate about creating efficient, scalable code`<br>
 
-🔹 Advocate for continuous learning and knowledge sharing
+🔹`Advocate for continuous learning and knowledge sharing`<br>
 
 💡 Current Focus: Web Developer Full Stack
 
