@@ -13,13 +13,7 @@
 
 📫 Connect with me: `[my LinkedIn : aarab-abderrahmane]`
 
-🔗 Portfolio/Website: [...]
+🔗 Portfolio/Website: `[...]`
 
-🚀 Open to collaboration on exciting projects and contributing to impactful solutions.
-<p style="font-family: cursive;">هذا نص مكتوب بخط Arial</p>
-
-<p style="font-family: 'Courier New', Courier, monospace;">🌟 Software Developer | Open Source Enthusiast
-
-`urigh<br>tdsds`<br>
-`urids`
+🚀 **Open to collaboration on exciting projects and contributing to impactful solutions.**
 
