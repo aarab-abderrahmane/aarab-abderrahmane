@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+`🌟 Software Developer | Open Source Enthusiast`<br>
 🌟 Software Developer | Open Source Enthusiast
 
 🔹 Specialize in Python, HTML, CSS
