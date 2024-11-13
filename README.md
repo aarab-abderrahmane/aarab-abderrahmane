@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌟 Software Developer | Open Source Enthusiast
+🌟 **Software Developer** | Open Source Enthusiast
 
 🔹`Specialize in Python, HTML, CSS`<br>
 
@@ -11,7 +11,7 @@
 
 🌍 Contributor to: `[mention popular projects or communities if applicable].`
 
-📫 Connect with me: [my LinkedIn : aarab-abderrahmane]
+📫 Connect with me: `[my LinkedIn : aarab-abderrahmane]`
 
 🔗 Portfolio/Website: [...]
 
