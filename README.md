@@ -20,5 +20,5 @@
 🔗 Portfolio/Website: `[...]`
 
 🚀 **Open to collaboration on exciting projects and contributing to impactful solutions.**
-***
+##
 
