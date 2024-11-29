@@ -1,3 +1,5 @@
+<img src="Animation - 1732922053706.gif">
+
 ## Hi there 👋
 
 🌟 **Software Developer** | Open Source Enthusiast
