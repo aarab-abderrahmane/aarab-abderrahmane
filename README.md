@@ -1,4 +1,4 @@
-<img src="Animation - 1732922053706.gif" height="100px" width="2000px">
+<img src="Animation - 1732922053706.gif" height="100px" width="100px">
 
 ## Hi there 👋
 
