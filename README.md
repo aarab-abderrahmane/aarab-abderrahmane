@@ -31,7 +31,8 @@
 
 📫 Connect with me: `[my LinkedIn : aarab-abderrahmane]`
 
-🔗 Portfolio/Website: `[aarab-abderrahmane.vercel.app]``#0969DA`
+🔗 Portfolio/Website: `[aarab-abderrahmane.vercel.app]`
+`#0969DA`
 
 🚀 **Open to collaboration on exciting projects and contributing to impactful solutions.**
 ##
