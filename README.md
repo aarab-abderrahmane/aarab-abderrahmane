@@ -1,39 +1,132 @@
-<img src="Animation - 1732922053706.gif" height="100px" width="150px">
+# 👋 Welcome to My GitHub Profile
 
-## Hi there 👋
+<div align="center">
+  <img src="Animation - 1732922053706.gif" height="100px" width="150px" alt="Animated Banner">
+  
+  **Software Developer | Full Stack Engineer | Open Source Enthusiast**
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://aarab-abderrahmane.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarab-abderrahmane-2b9509336/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarabderrahman@gmail.com)
+</div>
 
-🌟 **Software Developer** | Open Source Enthusiast
+---
 
-🔹`Specialize in : `
+## 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+I'm a passionate software developer specializing in full-stack web development with a focus on creating efficient, scalable, and user-friendly applications. I believe in continuous learning, clean code, and contributing to the open-source community.
+
+### 💼 Current Focus
+- 🌐 Building modern, responsive web applications
+- 🔧 Developing developer tools and productivity software
+- 🤝 Contributing to open-source projects
+- 📚 Continuous learning and skill enhancement
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
+---
 
+## 🌟 Featured Projects
 
+### 📝 [PlanPulse](https://planpulse.vercel.app)
+**Modern Todo Application with Advanced Features**
 
+A feature-rich todo list application with drag-and-drop functionality, stunning glassmorphism design, and a powerful widget system.
 
-🔹`Passionate about creating efficient, scalable code`<br>
+**Tech Stack:** React 19, Vite, Tailwind CSS, Framer Motion  
+**Key Features:**
+- 🎨 9 customizable themes with glassmorphism UI
+- 🔄 Drag-and-drop task and widget management
+- 📅 Integrated calendar and clock widgets
+- 💾 Local storage with import/export functionality
+- 🎊 Celebration effects and toast notifications
 
-🔹`Advocate for continuous learning and knowledge sharing`<br>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=flat&logo=vercel)](https://planpulse.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-View-blue?style=flat&logo=github)](https://github.com/aarab-abderrahmane/PlanPulse)
 
-💡 Current Focus: `Web Developer Full Stack`
+---
 
-🌍 Contributor to: `[mention popular projects or communities if applicable].`
+### 🚀 [Drop2Repo](https://github.com/aarab-abderrahmane/Drop2Repo)
+**Professional Git Repository Management Tool**
 
-📫 Connect with me: `[my LinkedIn : aarab-abderrahmane]`
+A sleek desktop application for managing GitHub repositories with a modern interface and cutting-edge features.
 
-🔗 Portfolio/Website: [view](https://aarab-abderrahmane.vercel.app/)
+**Tech Stack:** Python, CustomTkinter, Git, SQLite  
+**Key Features:**
+- ⚡ Multi-threaded Git operations for maximum performance
+- 📂 Real-time file tracking with visual indicators
+- 🛠️ Advanced commit management (edit, delete, revert)
+- 🔒 Secure credential handling with GPG support
+- 📊 Interactive commit history viewer
 
+[![Download](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/aarab-abderrahmane/Drop2Repo/releases)
+[![Version](https://img.shields.io/badge/version-8.0.1-blue.svg)](https://github.com/aarab-abderrahmane/Drop2Repo/releases)
 
-🚀 **Open to collaboration on exciting projects and contributing to impactful solutions.**
-##
+---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aarab-abderrahmane&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarab-abderrahmane&layout=compact&theme=radical" alt="Top Languages" height="165">
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects and contributing to impactful solutions. Feel free to reach out!
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 🌐 **Portfolio** | [aarab-abderrahmane.vercel.app](https://aarab-abderrahmane.vercel.app) |
+| 💼 **LinkedIn** | [Aarab Abderrahmane](https://www.linkedin.com/in/aarab-abderrahmane-2b9509336/) |
+| 📧 **Email** | [aarabderrahman@gmail.com](mailto:aarabderrahman@gmail.com) |
+| 💻 **GitHub** | [@aarab-abderrahmane](https://github.com/aarab-abderrahmane) |
+
+</div>
+
+---
+
+## 💡 Open to Opportunities
+
+✅ Freelance Projects  
+✅ Full-time Positions  
+✅ Open Source Collaboration  
+✅ Technical Consulting
+
+---
+
+<div align="center">
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=aarab-abderrahmane&color=blueviolet&style=flat)
+
+</div>
