@@ -7,7 +7,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://aarab-abderrahmane.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarab-abderrahmane-2b9509336/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarabderrahman@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahmanerb.contact@gmail.com)
 </div>
 
 ---
@@ -69,7 +69,7 @@ I'm always interested in collaborating on exciting projects and contributing to 
 |----------|------|
 | 🌐 **Portfolio** | [aarab-abderrahmane.vercel.app](https://aarab-abderrahmane.vercel.app) |
 | 💼 **LinkedIn** | [Aarab Abderrahmane](https://www.linkedin.com/in/aarab-abderrahmane-2b9509336/) |
-| 📧 **Email** | [aarabderrahman@gmail.com](mailto:aarabderrahman@gmail.com) |
+| 📧 **Email** | [aarabderrahman@gmail.com](mailto:abderrahmanerb.contact@gmail.com) |
 | 💻 **GitHub** | [@aarab-abderrahmane](https://github.com/aarab-abderrahmane) |
 
 </div>
