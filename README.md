@@ -50,26 +50,6 @@ I'm a passionate software developer specializing in full-stack web development w
 
 ---
 
-## 🌟 Featured Projects
-
-### 📝 [PlanPulse](https://planpulse.vercel.app)
-**Modern Todo Application with Advanced Features**
-
-A feature-rich todo list application with drag-and-drop functionality, stunning glassmorphism design, and a powerful widget system.
-
-**Tech Stack:** React 19, Vite, Tailwind CSS, Framer Motion  
-**Key Features:**
-- 🎨 9 customizable themes with glassmorphism UI
-- 🔄 Drag-and-drop task and widget management
-- 📅 Integrated calendar and clock widgets
-- 💾 Local storage with import/export functionality
-- 🎊 Celebration effects and toast notifications
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=flat&logo=vercel)](https://planpulse.vercel.app)
-[![Repository](https://img.shields.io/badge/Repository-View-blue?style=flat&logo=github)](https://github.com/aarab-abderrahmane/PlanPulse)
-
----
-
 ### 🚀 [Drop2Repo](https://github.com/aarab-abderrahmane/Drop2Repo)
 **Professional Git Repository Management Tool**
 
