@@ -50,24 +50,6 @@ I'm a passionate software developer specializing in full-stack web development w
 
 ---
 
-### 🚀 [Drop2Repo](https://github.com/aarab-abderrahmane/Drop2Repo)
-**Professional Git Repository Management Tool**
-
-A sleek desktop application for managing GitHub repositories with a modern interface and cutting-edge features.
-
-**Tech Stack:** Python, CustomTkinter, Git, SQLite  
-**Key Features:**
-- ⚡ Multi-threaded Git operations for maximum performance
-- 📂 Real-time file tracking with visual indicators
-- 🛠️ Advanced commit management (edit, delete, revert)
-- 🔒 Secure credential handling with GPG support
-- 📊 Interactive commit history viewer
-
-[![Download](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/aarab-abderrahmane/Drop2Repo/releases)
-[![Version](https://img.shields.io/badge/version-8.0.1-blue.svg)](https://github.com/aarab-abderrahmane/Drop2Repo/releases)
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
