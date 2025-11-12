@@ -3,7 +3,7 @@
 <div align="center">
   <img src="Animation - 1732922053706.gif" height="100px" width="150px" alt="Animated Banner">
   
-  **Software Developer | Full Stack Engineer | Open Source Enthusiast**
+  **Software Developer | Full Stack Developer | Open Source Enthusiast**
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://aarab-abderrahmane.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarab-abderrahmane-2b9509336/)
