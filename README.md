@@ -69,7 +69,7 @@ I'm always interested in collaborating on exciting projects and contributing to 
 |----------|------|
 | 🌐 **Portfolio** | [aarab-abderrahmane.vercel.app](https://aarab-abderrahmane.vercel.app) |
 | 💼 **LinkedIn** | [Aarab Abderrahmane](https://www.linkedin.com/in/aarab-abderrahmane-2b9509336/) |
-| 📧 **Email** | [aarabderrahman@gmail.com](mailto:abderrahmanerb.contact@gmail.com) |
+| 📧 **Email** | [abderrahmanerb.contact@gmail.com](mailto:abderrahmanerb.contact@gmail.com) |
 | 💻 **GitHub** | [@aarab-abderrahmane](https://github.com/aarab-abderrahmane) |
 
 </div>
