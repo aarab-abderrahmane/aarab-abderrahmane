@@ -103,33 +103,6 @@ const abderrahmane = {
 
 <br>
 
-## 🎯 Current Focus Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔨 Building
-- Modern web applications with React
-- RESTful APIs and backend services
-- Responsive and accessible UI components
-- Developer productivity tools
-
-</td>
-<td width="50%">
-
-### 📚 Learning
-- Advanced React patterns
-- System design principles
-- Cloud infrastructure (AWS/Azure)
-- Performance optimization techniques
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## 💼 Open to Opportunities
 
 <div align="center">
