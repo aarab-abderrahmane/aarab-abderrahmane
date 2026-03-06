@@ -33,7 +33,7 @@
 
 ## About
 
-I'm a full stack developer based in Morocco, focused on building clean, scalable web applications with great user experiences. I enjoy working across the entire stack — from crafting intuitive frontends to designing robust backend APIs.
+I'm a full stack developer based in Morocco, focused on building clean, scalable web applications with great user experiences. I enjoy working across the entire stack from crafting intuitive frontends to designing robust backend APIs.
 
 ```typescript
 const abderrahmane = {
