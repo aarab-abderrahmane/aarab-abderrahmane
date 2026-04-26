@@ -3,10 +3,9 @@
 
 <img src="Animation - 1732922053706.gif" height="100px" width="150px" alt="Banner">
 
-#
+# Abderrahmane Aarab
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&pause=1000&color=ff5e00&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Abderrahmane+%F0%9F%91%8B;Full+Stack+Developer+🇲🇦" alt="Typing SVG" />
+**Full Stack Developer** · Morocco 🇲🇦
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=2000&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Building+clean+%26+scalable+web+applications+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Subtitle"/>
@@ -113,15 +112,7 @@ const abderrahmane = {
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aarab-abderrahmane&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
-
-</div>
-
----
 
 ## 📈 Activity
 
