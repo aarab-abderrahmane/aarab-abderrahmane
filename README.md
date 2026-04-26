@@ -3,7 +3,7 @@
 
 <img src="Animation - 1732922053706.gif" height="100px" width="150px" alt="Banner">
 
-# 
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&pause=1000&color=ff5e00&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Abderrahmane+%F0%9F%91%8B;Full+Stack+Developer+🇲🇦" alt="Typing SVG" />
