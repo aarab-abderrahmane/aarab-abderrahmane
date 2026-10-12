@@ -10,8 +10,8 @@ import hashlib
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
-HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-USER_NAME = os.environ['USER_NAME'] # your GitHub username, e.g. 'aarab-abderrahmane'
+HEADERS = {'authorization': 'Bearer '+ os.environ['ACCESS_TOKEN']}
+USER_NAME = "aarab-abderrahmane" # your GitHub username, e.g. 'aarab-abderrahmane'
 
 # TODO (PLACEHOLDER): put your real birth date here (year, month, day). It drives the "Uptime" line.
 BIRTHDAY = datetime.datetime(2000, 1, 1)
