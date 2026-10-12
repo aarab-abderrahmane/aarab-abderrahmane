@@ -323,6 +323,8 @@ def write_svgs():
 <svg xmlns="http://www.w3.org/2000/svg"
      width="{WIDTH}px"
      height="{height}px"
+    style="background: transparent;"
+
      font-family="Consolas, 'Courier New', monospace"
      font-size="16px">
 
