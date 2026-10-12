@@ -8,7 +8,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=2000&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Building+clean+%26+scalable+web+applications+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Subtitle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=2000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Building+clean+%26+scalable+web+applications+from+Morocco" alt="Subtitle"/>
 </p>
 
 <p align="center">
