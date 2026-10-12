@@ -20,34 +20,3 @@
 </p>
 
 </div>
-
----
-
-## 🛠 Tech Stack
-
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178c6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwind-css&logoColor=38b2ac)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-161b22?style=flat-square&logo=express&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/Laravel-161b22?style=flat-square&logo=laravel&logoColor=ff2d20)
-![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=777bb4)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776ab)
-![Electron](https://img.shields.io/badge/Electron-161b22?style=flat-square&logo=electron&logoColor=47848f)
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47a248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169e1)
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479a1)
-![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=003b57)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=f05032)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=fcc624)
-
----
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarab-abderrahmane/aarab-abderrahmane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarab-abderrahmane/aarab-abderrahmane/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aarab-abderrahmane/aarab-abderrahmane/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>

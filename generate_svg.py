@@ -66,7 +66,6 @@ LH = 20
 
 THEMES = {
     "dark": dict(
-        bg="#161b22",
         art="#c9d1d9",
         txt="#c9d1d9",
         key="#ffa657",
@@ -76,7 +75,6 @@ THEMES = {
         cc="#616e7f",
     ),
     "light": dict(
-        bg="#f6f8fa",
         art="#24292f",
         txt="#24292f",
         key="#953800",
@@ -339,7 +337,6 @@ text, tspan {{ white-space: pre; }}
 
 <rect width="{WIDTH}px"
       height="{height}px"
-      fill="{theme["bg"]}"
       rx="15"/>
 
 <text x="{ART_X}"
