@@ -335,9 +335,6 @@ def write_svgs():
 text, tspan {{ white-space: pre; }}
 </style>
 
-<rect width="{WIDTH}px"
-      height="{height}px"
-      rx="15"/>
 
 <text x="{ART_X}"
       y="{y0}"
